@@ -1,6 +1,8 @@
 # MentrationMod
 Adds a new easy moon to Lethal Company!
 
+Lethal Level Loader is required to run this mod.
+
 To install this:
 Extract the .zip file (Latest recommended)
 Copy the "covjirtii-MentrationMod" folder into:
